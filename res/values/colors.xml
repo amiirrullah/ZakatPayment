@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="white">#FFFFFF</color> <!-- Primary white for background -->
+    <color name="black">#000000</color> <!-- Primary black for text -->
+
+    <!-- Accent Colors -->
+    <color name="green">#4CAF50</color> <!-- Primary green for buttons or highlights -->
+    <color name="yellow">#FFEB3B</color> <!-- Accent yellow for emphasis -->
+
+    <!-- Supporting Colors -->
+    <color name="light_green">#F5F5F5</color> <!-- Light gray-green for subtle backgrounds -->
+    <color name="dark_green">#2E7D32</color> <!-- Slightly darker green for highlights -->
+
+    <!-- Neutral Colors -->
+    <color name="gray">#E0E0E0</color> <!-- Light gray for borders or dividers -->
+</resources>
